@@ -9,6 +9,7 @@
 - [Abdullah Naseer](https://github.com/ABNaseer)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
+- [Saathwika D](https://github.com//saathwikad)
 - [Jayesh Bafna]
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Chris Raddatz](https://github.com/Chris-Raddatz)
